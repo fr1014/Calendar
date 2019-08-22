@@ -1,4 +1,4 @@
-package neibulei;
+package 内部类;
 
 public class Parcel1 {
     class Contents{

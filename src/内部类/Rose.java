@@ -1,4 +1,4 @@
-package neibulei;
+package 内部类;
 
 /**
  * 一个定义在方法中的类（局部内部类）

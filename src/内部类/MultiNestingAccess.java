@@ -1,4 +1,4 @@
-package neibulei;
+package 内部类;
 
 class MNA {
     private void f() {

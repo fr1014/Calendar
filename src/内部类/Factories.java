@@ -1,4 +1,4 @@
-package neibulei;
+package 内部类;
 
 interface Service{
     void method1();

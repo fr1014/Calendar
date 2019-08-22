@@ -1,4 +1,4 @@
-package neibulei;
+package 内部类;
 
 public class Gypsophila {
     public Flower flower(final String name,final float price){

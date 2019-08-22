@@ -1,4 +1,4 @@
-package neibulei;
+package 内部类;
 
 public class DotNew {
     private class Inner{}
