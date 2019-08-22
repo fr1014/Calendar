@@ -1,4 +1,4 @@
-package fuyonglei;
+package 复用类;
 
 class Art{
     Art(){

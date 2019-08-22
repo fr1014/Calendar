@@ -1,4 +1,4 @@
-package fuyonglei;
+package 复用类;
 
 class Animal {
     public void run() {
