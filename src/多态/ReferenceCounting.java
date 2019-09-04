@@ -1,4 +1,4 @@
-package duotai;
+package 多态;
 
 class Shared {
     private int refcount = 0;

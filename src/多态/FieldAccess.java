@@ -1,4 +1,4 @@
-package duotai;
+package 多态;
 
 class Super {
     public int field = 0;
