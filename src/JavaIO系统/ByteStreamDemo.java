@@ -8,6 +8,8 @@ import java.io.*;
  * 输入流：超类InputStream,对文件的输入流使用子类FileInputStream
  *
  * 输入、输出字节流操作原理，每次只会操作一个字节（从文件中读取或写入）
+ *
+ * 字节操作流、默认首次执行写入操作会直接把数据写入文件
  */
 public class ByteStreamDemo {
 
